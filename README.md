@@ -1,5 +1,9 @@
-- 👋 Hi, I’m @felipeprado01
-- 🌱 I’m currently learning Front-End technologies (HTML, CSS and JS)
+- 👋 Oi, eu sou o Felipe Prado
+- 🌱 Atualmente estudando front-end e análise de dados com Python
+- 📫 flprado01@gmail.com
+- 
+- 👋 Hi, I’m Felipe Prado
+- 🌱 I’m currently learning Front-End technologies and Data Analysis with Python
 - 📫 flprado01@gmail.com
 
 <!---
